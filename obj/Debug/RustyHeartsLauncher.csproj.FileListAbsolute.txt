@@ -1,0 +1,13 @@
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\bin\Debug\RustyHeartsLauncher.exe.config
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\bin\Debug\RustyHeartsLauncher.exe
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\bin\Debug\RustyHeartsLauncher.pdb
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\bin\Debug\Ionic.Zip.dll
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\RustyHeartsLauncher.csprojAssemblyReference.cache
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\RustyHeartsLauncher.g.resources
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\Launcher_v2.Form1.resources
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\Launcher_v2.Properties.Resources.resources
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\RustyHeartsLauncher.csproj.GenerateResource.cache
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\RustyHeartsLauncher.csproj.CoreCompileInputs.cache
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\RustyHeartsLauncher.csproj.CopyComplete
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\RustyHeartsLauncher.exe
+F:\Temp\RustyHearts_Devourment_Beta\Export\RustyHeartsLauncher\obj\Debug\RustyHeartsLauncher.pdb
